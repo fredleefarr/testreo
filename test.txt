@@ -1,5 +1,8 @@
 tst doc
 and aother line from the mac
+this will advance our new 
 
 this will advance the master branch
 bug fix
+another line from the feature branche
+this is the feature branche
