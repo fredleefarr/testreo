@@ -5,4 +5,6 @@ this will advance our new
 this will advance the master branch
 bug fix
 another line from the feature branche
-this is the feature branche
+this is the feature branch
+e
+and yet another line from the mac
